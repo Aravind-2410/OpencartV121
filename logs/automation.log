@@ -1,0 +1,487 @@
+18:50:53.950 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:16)oggger - ****Starting TC001_AccountRegistrationTest ***
+18:50:54.270 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:22)oggger - Clicked on MyAccount Link
+18:50:54.851 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - Clicked on Register Link
+18:50:54.853 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:30)oggger - Providing Customer Details
+18:50:56.604 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:44)oggger - Validating Expected msg
+18:50:56.640 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:56)oggger - *** Finished TC001_AccountRegistrationTest***
+17:44:19.894 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:16)oggger - ****Starting TC001_AccountRegistrationTest ***
+17:44:20.659 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:22)oggger - Clicked on MyAccount Link
+17:44:21.714 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - Clicked on Register Link
+17:44:21.716 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:30)oggger - Providing Customer Details
+17:44:23.768 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:44)oggger - Validating Expected msg
+17:44:23.832 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:56)oggger - *** Finished TC001_AccountRegistrationTest***
+17:46:19.133 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:16)oggger - ****Starting TC001_AccountRegistrationTest ***
+17:46:20.156 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:22)oggger - Clicked on MyAccount Link
+17:46:21.378 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - Clicked on Register Link
+17:46:21.386 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:30)oggger - Providing Customer Details
+17:46:24.956 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:44)oggger - Validating Expected msg
+17:46:25.054 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:56)oggger - *** Finished TC001_AccountRegistrationTest***
+17:52:55.868 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:16)oggger - ****Starting TC001_AccountRegistrationTest ***
+17:52:55.986 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:22)oggger - Clicked on MyAccount Link
+17:52:56.459 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - Clicked on Register Link
+17:52:56.461 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:30)oggger - Providing Customer Details
+17:52:58.214 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:44)oggger - Validating Expected msg
+17:52:58.263 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:56)oggger - *** Finished TC001_AccountRegistrationTest***
+17:53:02.948 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:16)oggger - ****Starting TC001_AccountRegistrationTest ***
+17:53:03.069 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:22)oggger - Clicked on MyAccount Link
+17:53:03.767 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - Clicked on Register Link
+17:53:03.768 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:30)oggger - Providing Customer Details
+17:53:05.892 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:44)oggger - Validating Expected msg
+17:53:05.945 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:56)oggger - *** Finished TC001_AccountRegistrationTest***
+17:54:08.890 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:16)oggger - ****Starting TC001_AccountRegistrationTest ***
+17:54:11.407 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:22)oggger - Clicked on MyAccount Link
+17:54:13.923 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - Clicked on Register Link
+17:54:13.954 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:30)oggger - Providing Customer Details
+17:54:17.269 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:44)oggger - Validating Expected msg
+17:54:17.356 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:56)oggger - *** Finished TC001_AccountRegistrationTest***
+17:54:34.821 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:16)oggger - ****Starting TC001_AccountRegistrationTest ***
+17:54:34.847 [main] ERROR testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:51)oggger - Test Failed...
+17:57:54.606 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:16)oggger - ****Starting TC001_AccountRegistrationTest ***
+17:57:55.162 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:16)oggger - ****Starting TC001_AccountRegistrationTest ***
+17:57:57.633 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:22)oggger - Clicked on MyAccount Link
+17:57:57.801 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:22)oggger - Clicked on MyAccount Link
+17:57:59.386 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - Clicked on Register Link
+17:57:59.566 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:30)oggger - Providing Customer Details
+17:58:00.029 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - Clicked on Register Link
+17:58:00.051 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:30)oggger - Providing Customer Details
+17:58:06.072 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:44)oggger - Validating Expected msg
+17:58:06.567 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:56)oggger - *** Finished TC001_AccountRegistrationTest***
+17:58:06.573 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:44)oggger - Validating Expected msg
+17:58:07.018 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:56)oggger - *** Finished TC001_AccountRegistrationTest***
+17:58:30.464 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:16)oggger - ****Starting TC001_AccountRegistrationTest ***
+17:58:36.427 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:22)oggger - Clicked on MyAccount Link
+17:58:39.972 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - Clicked on Register Link
+17:58:39.974 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:30)oggger - Providing Customer Details
+17:58:49.889 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:44)oggger - Validating Expected msg
+17:58:50.128 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:56)oggger - *** Finished TC001_AccountRegistrationTest***
+18:46:07.185 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:16)oggger - ****Starting TC001_AccountRegistrationTest ***
+18:46:07.358 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:22)oggger - Clicked on MyAccount Link
+18:46:07.927 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - Clicked on Register Link
+18:46:07.932 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:30)oggger - Providing Customer Details
+18:46:10.555 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:44)oggger - Validating Expected msg
+18:46:10.645 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:56)oggger - *** Finished TC001_AccountRegistrationTest***
+12:09:43.672 [main] INFO  testCases.TC002_LoginTest.Verify_login(TC002_LoginTest.java:16)oggger - *** Starting TC002_LoginTest****
+12:09:46.518 [main] INFO  testCases.TC002_LoginTest.Verify_login(TC002_LoginTest.java:47)oggger - *** Starting TC002_LoginTest****
+12:14:51.969 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Eclipse Workspace\26_Nov_25\myworkspaces\OpencartV121\master.xml
+
+12:15:06.587 [main] INFO  testCases.TC002_LoginTest.Verify_login(TC002_LoginTest.java:16)oggger - *** Starting TC002_LoginTest****
+12:15:12.362 [main] INFO  testCases.TC002_LoginTest.Verify_login(TC002_LoginTest.java:47)oggger - *** Finished TC002_LoginTest****
+17:54:43.918 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+17:54:43.969 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 4 ms.
+17:54:43.977 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:54:43.977 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:54:43.981 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:54:43.982 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:54:43.985 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:54:43.986 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:54:44.008 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 12 ms.
+17:54:44.066 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 56 ms.
+17:54:44.071 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+17:54:44.075 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+17:54:44.078 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:54:44.081 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:54:44.082 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:54:44.083 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:54:44.095 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:54:44.097 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:54:44.099 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:54:44.100 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:54:44.115 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:54:44.117 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:54:44.117 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:54:44.118 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:54:44.124 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+17:54:44.127 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+17:54:44.134 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:54:44.135 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:54:44.135 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:54:44.136 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:54:44.166 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\Aravind Sriram\AppData\Local\Temp\testng-eclipse-902125190\testng-customsuite.xml
+
+17:54:44.201 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] DynamicGraphHelper.createDynamicGraph() took 8 ms.
+17:54:54.724 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.jq.Main@ddf20fd: 384 ms
+17:54:54.787 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.FailedReporter@458544e0: 62 ms
+17:54:54.845 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.XMLReporter@5e3a39cd: 58 ms
+17:54:54.868 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@21fff664: 22 ms
+17:54:54.885 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@1440c311: 16 ms
+17:54:54.886 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.internal.ExitCodeListener@189b5fb1: 0 ms
+18:38:05.292 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Eclipse Workspace\26_Nov_25\myworkspaces\OpencartV121\master.xml
+
+18:40:45.790 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:40:45.797 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+18:40:45.800 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:40:45.800 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:40:45.802 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:40:45.802 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:40:45.803 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:40:45.803 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:40:45.809 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+18:40:45.824 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 14 ms.
+18:40:45.827 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:40:45.828 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:40:45.829 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:40:45.829 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:40:45.830 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:40:45.830 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:40:45.833 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:40:45.833 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:40:45.834 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:40:45.834 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:40:45.841 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:40:45.841 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:40:45.841 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:40:45.842 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:40:45.843 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+18:40:45.844 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:40:45.846 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:40:45.848 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:40:45.848 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:40:45.848 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:40:45.859 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\Aravind Sriram\AppData\Local\Temp\testng-eclipse--2074888897\testng-customsuite.xml
+
+18:40:45.883 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+18:40:48.697 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.jq.Main@6a714237: 162 ms
+18:40:48.845 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.FailedReporter@11653e3b: 147 ms
+18:40:48.861 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.XMLReporter@a567e72: 16 ms
+18:40:48.871 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@4482469c: 10 ms
+18:40:48.882 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@4b1abd11: 9 ms
+18:40:48.882 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.internal.ExitCodeListener@3f36b447: 0 ms
+18:42:14.749 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:42:14.756 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+18:42:14.759 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:42:14.759 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:42:14.761 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:42:14.762 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:42:14.763 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:42:14.764 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:42:14.771 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+18:42:14.786 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 14 ms.
+18:42:14.788 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:42:14.789 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:42:14.790 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:42:14.791 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:42:14.791 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:42:14.791 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:42:14.796 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:42:14.796 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:42:14.797 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:42:14.797 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:42:14.801 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:42:14.801 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:42:14.801 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:42:14.802 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:42:14.803 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+18:42:14.804 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+18:42:14.807 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:42:14.807 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:42:14.808 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:42:14.808 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:42:14.822 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\Aravind Sriram\AppData\Local\Temp\testng-eclipse-826592859\testng-customsuite.xml
+
+18:42:14.845 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+18:42:17.508 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.jq.Main@6a714237: 111 ms
+18:42:17.537 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.FailedReporter@11653e3b: 29 ms
+18:42:17.565 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.XMLReporter@a567e72: 27 ms
+18:42:17.586 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@4482469c: 20 ms
+18:42:17.613 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@4b1abd11: 23 ms
+18:42:17.614 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.internal.ExitCodeListener@3f36b447: 0 ms
+18:44:14.075 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+18:44:14.082 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+18:44:14.086 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:44:14.086 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:44:14.087 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:44:14.088 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:44:14.089 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:44:14.090 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:44:14.099 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 6 ms.
+18:44:14.119 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 19 ms.
+18:44:14.121 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+18:44:14.122 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:44:14.123 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:44:14.123 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:44:14.124 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:44:14.125 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:44:14.128 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:44:14.128 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:44:14.129 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:44:14.130 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:44:14.135 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:44:14.135 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:44:14.136 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:44:14.136 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:44:14.138 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:44:14.139 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:44:14.141 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:44:14.142 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:44:14.142 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:44:14.142 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:44:14.156 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\Aravind Sriram\AppData\Local\Temp\testng-eclipse--1752962981\testng-customsuite.xml
+
+18:44:14.188 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] DynamicGraphHelper.createDynamicGraph() took 7 ms.
+18:44:16.872 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.jq.Main@6a714237: 111 ms
+18:44:16.902 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.FailedReporter@11653e3b: 30 ms
+18:44:16.921 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.XMLReporter@a567e72: 17 ms
+18:44:16.941 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@4482469c: 20 ms
+18:44:16.959 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@695a69a1: 17 ms
+18:44:16.961 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.internal.ExitCodeListener@4b1abd11: 0 ms
+18:47:47.725 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Eclipse Workspace\26_Nov_25\myworkspaces\OpencartV121\master.xml
+
+18:51:35.089 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Eclipse Workspace\26_Nov_25\myworkspaces\OpencartV121\master.xml
+
+18:59:27.299 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Eclipse Workspace\26_Nov_25\myworkspaces\OpencartV121\master.xml
+
+19:00:09.179 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Eclipse Workspace\26_Nov_25\myworkspaces\OpencartV121\test-output\testng-failed.xml
+
+19:01:06.604 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+19:01:06.615 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+19:01:06.619 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:01:06.619 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:01:06.622 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:01:06.623 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:01:06.625 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:01:06.626 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:01:06.637 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 6 ms.
+19:01:06.660 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 21 ms.
+19:01:06.664 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:01:06.665 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:01:06.666 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:01:06.668 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+19:01:06.670 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:01:06.670 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:01:06.675 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:01:06.677 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:01:06.678 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:01:06.680 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:01:06.687 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:01:06.687 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:01:06.688 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:01:06.688 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:01:06.690 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:01:06.691 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:01:06.696 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:01:06.697 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:01:06.698 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:01:06.698 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:01:06.719 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\Aravind Sriram\AppData\Local\Temp\testng-eclipse-1416850223\testng-customsuite.xml
+
+19:01:06.756 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] DynamicGraphHelper.createDynamicGraph() took 8 ms.
+19:01:09.504 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.jq.Main@6a714237: 127 ms
+19:01:09.531 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.FailedReporter@11653e3b: 25 ms
+19:01:09.552 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.XMLReporter@a567e72: 21 ms
+19:01:09.575 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@4482469c: 21 ms
+19:01:09.590 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@4b1abd11: 15 ms
+19:01:09.591 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.internal.ExitCodeListener@3f36b447: 0 ms
+19:02:28.789 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Eclipse Workspace\26_Nov_25\myworkspaces\OpencartV121\master.xml
+
+16:41:55.026 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Eclipse Workspace\26_Nov_25\myworkspaces\OpencartV121\master.xml
+
+17:02:18.581 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Eclipse Workspace\26_Nov_25\myworkspaces\OpencartV121\master.xml
+
+17:02:25.987 [main] INFO  testCases.TC003_LoginDDT.Verify_loginDDT(TC003_LoginDDT.java:27)oggger - *** Started TC003_LoginDDT ****
+17:02:29.063 [main] INFO  testCases.TC003_LoginDDT.Verify_loginDDT(TC003_LoginDDT.java:84)oggger - *** Finished TC003_LoginDDT ****
+17:02:29.077 [main] INFO  testCases.TC003_LoginDDT.Verify_loginDDT(TC003_LoginDDT.java:27)oggger - *** Started TC003_LoginDDT ****
+17:02:40.562 [main] INFO  testCases.TC003_LoginDDT.Verify_loginDDT(TC003_LoginDDT.java:84)oggger - *** Finished TC003_LoginDDT ****
+17:02:40.570 [main] INFO  testCases.TC003_LoginDDT.Verify_loginDDT(TC003_LoginDDT.java:27)oggger - *** Started TC003_LoginDDT ****
+17:02:51.349 [main] INFO  testCases.TC003_LoginDDT.Verify_loginDDT(TC003_LoginDDT.java:84)oggger - *** Finished TC003_LoginDDT ****
+17:02:51.371 [main] INFO  testCases.TC003_LoginDDT.Verify_loginDDT(TC003_LoginDDT.java:27)oggger - *** Started TC003_LoginDDT ****
+17:03:01.967 [main] INFO  testCases.TC003_LoginDDT.Verify_loginDDT(TC003_LoginDDT.java:84)oggger - *** Finished TC003_LoginDDT ****
+17:03:01.992 [main] INFO  testCases.TC003_LoginDDT.Verify_loginDDT(TC003_LoginDDT.java:27)oggger - *** Started TC003_LoginDDT ****
+17:03:04.359 [main] INFO  testCases.TC003_LoginDDT.Verify_loginDDT(TC003_LoginDDT.java:84)oggger - *** Finished TC003_LoginDDT ****
+17:03:04.380 [main] INFO  testCases.TC003_LoginDDT.Verify_loginDDT(TC003_LoginDDT.java:27)oggger - *** Started TC003_LoginDDT ****
+17:03:14.946 [main] INFO  testCases.TC003_LoginDDT.Verify_loginDDT(TC003_LoginDDT.java:84)oggger - *** Finished TC003_LoginDDT ****
+17:04:48.382 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Eclipse Workspace\26_Nov_25\myworkspaces\OpencartV121\master.xml
+
+17:05:53.921 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Eclipse Workspace\26_Nov_25\myworkspaces\OpencartV121\master.xml
+
+17:06:00.645 [main] INFO  testCases.TC003_LoginDDT.Verify_loginDDT(TC003_LoginDDT.java:27)oggger - *** Started TC003_LoginDDT ****
+17:06:04.069 [main] INFO  testCases.TC003_LoginDDT.Verify_loginDDT(TC003_LoginDDT.java:84)oggger - *** Finished TC003_LoginDDT ****
+17:06:04.083 [main] INFO  testCases.TC003_LoginDDT.Verify_loginDDT(TC003_LoginDDT.java:27)oggger - *** Started TC003_LoginDDT ****
+17:06:16.407 [main] INFO  testCases.TC003_LoginDDT.Verify_loginDDT(TC003_LoginDDT.java:84)oggger - *** Finished TC003_LoginDDT ****
+17:06:16.416 [main] INFO  testCases.TC003_LoginDDT.Verify_loginDDT(TC003_LoginDDT.java:27)oggger - *** Started TC003_LoginDDT ****
+17:06:27.032 [main] INFO  testCases.TC003_LoginDDT.Verify_loginDDT(TC003_LoginDDT.java:84)oggger - *** Finished TC003_LoginDDT ****
+17:06:27.040 [main] INFO  testCases.TC003_LoginDDT.Verify_loginDDT(TC003_LoginDDT.java:27)oggger - *** Started TC003_LoginDDT ****
+17:06:37.537 [main] INFO  testCases.TC003_LoginDDT.Verify_loginDDT(TC003_LoginDDT.java:84)oggger - *** Finished TC003_LoginDDT ****
+17:06:37.543 [main] INFO  testCases.TC003_LoginDDT.Verify_loginDDT(TC003_LoginDDT.java:27)oggger - *** Started TC003_LoginDDT ****
+17:06:39.523 [main] INFO  testCases.TC003_LoginDDT.Verify_loginDDT(TC003_LoginDDT.java:84)oggger - *** Finished TC003_LoginDDT ****
+17:06:39.530 [main] INFO  testCases.TC003_LoginDDT.Verify_loginDDT(TC003_LoginDDT.java:27)oggger - *** Started TC003_LoginDDT ****
+17:06:50.099 [main] INFO  testCases.TC003_LoginDDT.Verify_loginDDT(TC003_LoginDDT.java:84)oggger - *** Finished TC003_LoginDDT ****
+17:26:44.215 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Eclipse Workspace\26_Nov_25\myworkspaces\OpencartV121\grouping.xml
+
+17:26:49.347 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:16)oggger - ****Starting TC001_AccountRegistrationTest ***
+17:26:49.557 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:22)oggger - Clicked on MyAccount Link
+17:26:50.081 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - Clicked on Register Link
+17:26:50.094 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:30)oggger - Providing Customer Details
+17:26:51.997 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:44)oggger - Validating Expected msg
+17:26:52.039 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:56)oggger - *** Finished TC001_AccountRegistrationTest***
+17:26:56.212 [main] INFO  testCases.TC002_LoginTest.Verify_login(TC002_LoginTest.java:16)oggger - *** Starting TC002_LoginTest****
+17:26:58.500 [main] INFO  testCases.TC002_LoginTest.Verify_login(TC002_LoginTest.java:47)oggger - *** Finished TC002_LoginTest****
+17:40:46.324 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Eclipse Workspace\26_Nov_25\myworkspaces\OpencartV121\grouping.xml
+
+17:40:49.723 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:16)oggger - ****Starting TC001_AccountRegistrationTest ***
+17:40:49.847 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:22)oggger - Clicked on MyAccount Link
+17:40:50.258 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - Clicked on Register Link
+17:40:50.264 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:30)oggger - Providing Customer Details
+17:40:52.665 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:44)oggger - Validating Expected msg
+17:40:52.712 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:56)oggger - *** Finished TC001_AccountRegistrationTest***
+17:40:56.314 [main] INFO  testCases.TC002_LoginTest.Verify_login(TC002_LoginTest.java:16)oggger - *** Starting TC002_LoginTest****
+17:40:58.379 [main] INFO  testCases.TC002_LoginTest.Verify_login(TC002_LoginTest.java:47)oggger - *** Finished TC002_LoginTest****
+17:42:41.065 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Eclipse Workspace\26_Nov_25\myworkspaces\OpencartV121\grouping.xml
+
+17:42:45.414 [main] INFO  testCases.TC002_LoginTest.Verify_login(TC002_LoginTest.java:16)oggger - *** Starting TC002_LoginTest****
+17:42:47.743 [main] INFO  testCases.TC002_LoginTest.Verify_login(TC002_LoginTest.java:47)oggger - *** Finished TC002_LoginTest****
+23:06:39.240 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Eclipse Workspace\26_Nov_25\myworkspaces\OpencartV121\grouping.xml
+
+23:07:01.741 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:16)oggger - ****Starting TC001_AccountRegistrationTest ***
+23:07:02.507 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:22)oggger - Clicked on MyAccount Link
+23:07:03.249 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - Clicked on Register Link
+23:07:03.307 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:30)oggger - Providing Customer Details
+23:07:07.525 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:44)oggger - Validating Expected msg
+23:07:07.802 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:56)oggger - *** Finished TC001_AccountRegistrationTest***
+23:07:19.547 [main] INFO  testCases.TC002_LoginTest.Verify_login(TC002_LoginTest.java:16)oggger - *** Starting TC002_LoginTest****
+23:07:22.022 [main] INFO  testCases.TC002_LoginTest.Verify_login(TC002_LoginTest.java:47)oggger - *** Finished TC002_LoginTest****
+23:15:33.128 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Eclipse Workspace\26_Nov_25\myworkspaces\OpencartV121\master.xml
+
+23:15:53.838 [main] INFO  testCases.TC003_LoginDDT.Verify_loginDDT(TC003_LoginDDT.java:27)oggger - *** Started TC003_LoginDDT ****
+23:15:57.411 [main] INFO  testCases.TC003_LoginDDT.Verify_loginDDT(TC003_LoginDDT.java:84)oggger - *** Finished TC003_LoginDDT ****
+23:15:57.426 [main] INFO  testCases.TC003_LoginDDT.Verify_loginDDT(TC003_LoginDDT.java:27)oggger - *** Started TC003_LoginDDT ****
+23:16:09.917 [main] INFO  testCases.TC003_LoginDDT.Verify_loginDDT(TC003_LoginDDT.java:84)oggger - *** Finished TC003_LoginDDT ****
+23:16:09.964 [main] INFO  testCases.TC003_LoginDDT.Verify_loginDDT(TC003_LoginDDT.java:27)oggger - *** Started TC003_LoginDDT ****
+23:16:21.979 [main] INFO  testCases.TC003_LoginDDT.Verify_loginDDT(TC003_LoginDDT.java:84)oggger - *** Finished TC003_LoginDDT ****
+23:16:22.007 [main] INFO  testCases.TC003_LoginDDT.Verify_loginDDT(TC003_LoginDDT.java:27)oggger - *** Started TC003_LoginDDT ****
+23:16:33.881 [main] INFO  testCases.TC003_LoginDDT.Verify_loginDDT(TC003_LoginDDT.java:84)oggger - *** Finished TC003_LoginDDT ****
+23:16:33.902 [main] INFO  testCases.TC003_LoginDDT.Verify_loginDDT(TC003_LoginDDT.java:27)oggger - *** Started TC003_LoginDDT ****
+23:16:37.037 [main] INFO  testCases.TC003_LoginDDT.Verify_loginDDT(TC003_LoginDDT.java:84)oggger - *** Finished TC003_LoginDDT ****
+23:16:37.068 [main] INFO  testCases.TC003_LoginDDT.Verify_loginDDT(TC003_LoginDDT.java:27)oggger - *** Started TC003_LoginDDT ****
+23:16:49.105 [main] INFO  testCases.TC003_LoginDDT.Verify_loginDDT(TC003_LoginDDT.java:84)oggger - *** Finished TC003_LoginDDT ****
+23:17:00.651 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Eclipse Workspace\26_Nov_25\myworkspaces\OpencartV121\master.xml
+
+23:17:10.504 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:16)oggger - ****Starting TC001_AccountRegistrationTest ***
+23:17:10.814 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:22)oggger - Clicked on MyAccount Link
+23:17:11.473 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - Clicked on Register Link
+23:17:11.521 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:30)oggger - Providing Customer Details
+23:17:15.036 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:44)oggger - Validating Expected msg
+23:17:15.170 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:56)oggger - *** Finished TC001_AccountRegistrationTest***
+23:17:21.049 [main] INFO  testCases.TC002_LoginTest.Verify_login(TC002_LoginTest.java:16)oggger - *** Starting TC002_LoginTest****
+23:17:23.832 [main] INFO  testCases.TC002_LoginTest.Verify_login(TC002_LoginTest.java:47)oggger - *** Finished TC002_LoginTest****
+23:17:32.148 [main] INFO  testCases.TC003_LoginDDT.Verify_loginDDT(TC003_LoginDDT.java:27)oggger - *** Started TC003_LoginDDT ****
+23:17:35.157 [main] INFO  testCases.TC003_LoginDDT.Verify_loginDDT(TC003_LoginDDT.java:84)oggger - *** Finished TC003_LoginDDT ****
+23:17:35.186 [main] INFO  testCases.TC003_LoginDDT.Verify_loginDDT(TC003_LoginDDT.java:27)oggger - *** Started TC003_LoginDDT ****
+23:17:47.493 [main] INFO  testCases.TC003_LoginDDT.Verify_loginDDT(TC003_LoginDDT.java:84)oggger - *** Finished TC003_LoginDDT ****
+23:17:47.508 [main] INFO  testCases.TC003_LoginDDT.Verify_loginDDT(TC003_LoginDDT.java:27)oggger - *** Started TC003_LoginDDT ****
+23:17:59.883 [main] INFO  testCases.TC003_LoginDDT.Verify_loginDDT(TC003_LoginDDT.java:84)oggger - *** Finished TC003_LoginDDT ****
+23:17:59.902 [main] INFO  testCases.TC003_LoginDDT.Verify_loginDDT(TC003_LoginDDT.java:27)oggger - *** Started TC003_LoginDDT ****
+23:18:13.724 [main] INFO  testCases.TC003_LoginDDT.Verify_loginDDT(TC003_LoginDDT.java:84)oggger - *** Finished TC003_LoginDDT ****
+23:18:13.753 [main] INFO  testCases.TC003_LoginDDT.Verify_loginDDT(TC003_LoginDDT.java:27)oggger - *** Started TC003_LoginDDT ****
+23:18:16.897 [main] INFO  testCases.TC003_LoginDDT.Verify_loginDDT(TC003_LoginDDT.java:84)oggger - *** Finished TC003_LoginDDT ****
+23:18:16.926 [main] INFO  testCases.TC003_LoginDDT.Verify_loginDDT(TC003_LoginDDT.java:27)oggger - *** Started TC003_LoginDDT ****
+23:18:28.993 [main] INFO  testCases.TC003_LoginDDT.Verify_loginDDT(TC003_LoginDDT.java:84)oggger - *** Finished TC003_LoginDDT ****
+14:04:10.733 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Eclipse Workspace\26_Nov_25\myworkspaces\OpencartV121\grouping.xml
+
+14:04:37.934 [main] INFO  testCases.TC002_LoginTest.Verify_login(TC002_LoginTest.java:16)oggger - *** Starting TC002_LoginTest****
+14:06:01.441 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Eclipse Workspace\26_Nov_25\myworkspaces\OpencartV121\grouping.xml
+
+14:06:05.872 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:16)oggger - ****Starting TC001_AccountRegistrationTest ***
+14:06:06.042 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:22)oggger - Clicked on MyAccount Link
+14:06:06.481 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - Clicked on Register Link
+14:06:06.485 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:30)oggger - Providing Customer Details
+14:06:09.382 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:44)oggger - Validating Expected msg
+14:06:09.433 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:56)oggger - *** Finished TC001_AccountRegistrationTest***
+14:06:13.308 [main] INFO  testCases.TC002_LoginTest.Verify_login(TC002_LoginTest.java:16)oggger - *** Starting TC002_LoginTest****
+14:06:15.426 [main] INFO  testCases.TC002_LoginTest.Verify_login(TC002_LoginTest.java:47)oggger - *** Finished TC002_LoginTest****
+14:10:13.360 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Eclipse Workspace\26_Nov_25\myworkspaces\OpencartV121\grouping.xml
+
+14:10:17.793 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:16)oggger - ****Starting TC001_AccountRegistrationTest ***
+14:10:17.945 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:22)oggger - Clicked on MyAccount Link
+14:10:18.621 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - Clicked on Register Link
+14:10:18.630 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:30)oggger - Providing Customer Details
+14:10:21.180 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:44)oggger - Validating Expected msg
+14:10:21.234 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:56)oggger - *** Finished TC001_AccountRegistrationTest***
+14:10:25.080 [main] INFO  testCases.TC002_LoginTest.Verify_login(TC002_LoginTest.java:16)oggger - *** Starting TC002_LoginTest****
+14:17:16.470 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Eclipse Workspace\26_Nov_25\myworkspaces\OpencartV121\test-output\testng-failed.xml
+
+14:17:19.850 [main] INFO  testCases.TC002_LoginTest.Verify_login(TC002_LoginTest.java:16)oggger - *** Starting TC002_LoginTest****
+14:17:22.197 [main] INFO  testCases.TC002_LoginTest.Verify_login(TC002_LoginTest.java:47)oggger - *** Finished TC002_LoginTest****
+17:15:40.884 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Eclipse Workspace\26_Nov_25\myworkspaces\OpencartV121\master.xml
+
+16:18:26.041 [main] INFO  testCases.TC002_LoginTest.Verify_login(TC002_LoginTest.java:16)oggger - *** Starting TC002_LoginTest****
+16:18:29.207 [main] INFO  testCases.TC002_LoginTest.Verify_login(TC002_LoginTest.java:47)oggger - *** Finished TC002_LoginTest****
+16:18:35.801 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:16)oggger - ****Starting TC001_AccountRegistrationTest ***
+16:18:35.944 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:22)oggger - Clicked on MyAccount Link
+16:18:36.678 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - Clicked on Register Link
+16:18:36.760 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:30)oggger - Providing Customer Details
+16:18:40.559 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:44)oggger - Validating Expected msg
+16:18:40.644 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:56)oggger - *** Finished TC001_AccountRegistrationTest***
+16:37:42.388 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Eclipse Workspace\26_Nov_25\myworkspaces\OpencartV121\master.xml
+
+16:37:50.234 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:16)oggger - ****Starting TC001_AccountRegistrationTest ***
+16:37:50.618 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:22)oggger - Clicked on MyAccount Link
+16:37:51.257 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - Clicked on Register Link
+16:37:51.282 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:30)oggger - Providing Customer Details
+16:37:54.871 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:44)oggger - Validating Expected msg
+16:37:54.923 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:56)oggger - *** Finished TC001_AccountRegistrationTest***
+16:38:00.291 [main] INFO  testCases.TC002_LoginTest.Verify_login(TC002_LoginTest.java:16)oggger - *** Starting TC002_LoginTest****
+16:38:03.187 [main] INFO  testCases.TC002_LoginTest.Verify_login(TC002_LoginTest.java:47)oggger - *** Finished TC002_LoginTest****
+16:38:12.824 [main] INFO  testCases.TC003_LoginDDT.Verify_loginDDT(TC003_LoginDDT.java:27)oggger - *** Started TC003_LoginDDT ****
+16:38:16.132 [main] INFO  testCases.TC003_LoginDDT.Verify_loginDDT(TC003_LoginDDT.java:84)oggger - *** Finished TC003_LoginDDT ****
+16:38:16.178 [main] INFO  testCases.TC003_LoginDDT.Verify_loginDDT(TC003_LoginDDT.java:27)oggger - *** Started TC003_LoginDDT ****
+16:38:28.441 [main] INFO  testCases.TC003_LoginDDT.Verify_loginDDT(TC003_LoginDDT.java:84)oggger - *** Finished TC003_LoginDDT ****
+16:38:28.465 [main] INFO  testCases.TC003_LoginDDT.Verify_loginDDT(TC003_LoginDDT.java:27)oggger - *** Started TC003_LoginDDT ****
+16:38:40.581 [main] INFO  testCases.TC003_LoginDDT.Verify_loginDDT(TC003_LoginDDT.java:84)oggger - *** Finished TC003_LoginDDT ****
+16:38:40.607 [main] INFO  testCases.TC003_LoginDDT.Verify_loginDDT(TC003_LoginDDT.java:27)oggger - *** Started TC003_LoginDDT ****
+16:38:52.807 [main] INFO  testCases.TC003_LoginDDT.Verify_loginDDT(TC003_LoginDDT.java:84)oggger - *** Finished TC003_LoginDDT ****
+16:38:52.826 [main] INFO  testCases.TC003_LoginDDT.Verify_loginDDT(TC003_LoginDDT.java:27)oggger - *** Started TC003_LoginDDT ****
+16:38:56.046 [main] INFO  testCases.TC003_LoginDDT.Verify_loginDDT(TC003_LoginDDT.java:84)oggger - *** Finished TC003_LoginDDT ****
+16:38:56.083 [main] INFO  testCases.TC003_LoginDDT.Verify_loginDDT(TC003_LoginDDT.java:27)oggger - *** Started TC003_LoginDDT ****
+16:39:08.255 [main] INFO  testCases.TC003_LoginDDT.Verify_loginDDT(TC003_LoginDDT.java:84)oggger - *** Finished TC003_LoginDDT ****
+16:44:18.722 [main] INFO  testCases.TC002_LoginTest.Verify_login(TC002_LoginTest.java:16)oggger - *** Starting TC002_LoginTest****
+16:44:21.783 [main] INFO  testCases.TC002_LoginTest.Verify_login(TC002_LoginTest.java:47)oggger - *** Finished TC002_LoginTest****
+16:44:26.503 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:16)oggger - ****Starting TC001_AccountRegistrationTest ***
+16:44:26.746 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:22)oggger - Clicked on MyAccount Link
+16:44:27.553 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - Clicked on Register Link
+16:44:27.558 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:30)oggger - Providing Customer Details
+16:44:30.060 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:44)oggger - Validating Expected msg
+16:44:30.131 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:56)oggger - *** Finished TC001_AccountRegistrationTest***
+17:10:37.916 [main] INFO  testCases.TC002_LoginTest.Verify_login(TC002_LoginTest.java:16)oggger - *** Starting TC002_LoginTest****
+17:10:40.209 [main] INFO  testCases.TC002_LoginTest.Verify_login(TC002_LoginTest.java:47)oggger - *** Finished TC002_LoginTest****
+17:10:44.980 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:16)oggger - ****Starting TC001_AccountRegistrationTest ***
+17:10:45.088 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:22)oggger - Clicked on MyAccount Link
+17:10:45.614 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - Clicked on Register Link
+17:10:45.616 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:30)oggger - Providing Customer Details
+17:10:47.578 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:44)oggger - Validating Expected msg
+17:10:47.618 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:56)oggger - *** Finished TC001_AccountRegistrationTest***
+17:20:45.052 [main] INFO  testCases.TC002_LoginTest.Verify_login(TC002_LoginTest.java:16)oggger - *** Starting TC002_LoginTest****
+17:20:47.505 [main] INFO  testCases.TC002_LoginTest.Verify_login(TC002_LoginTest.java:47)oggger - *** Finished TC002_LoginTest****
+17:20:54.832 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:16)oggger - ****Starting TC001_AccountRegistrationTest ***
+17:20:54.993 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:22)oggger - Clicked on MyAccount Link
+17:20:55.622 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - Clicked on Register Link
+17:20:55.624 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:30)oggger - Providing Customer Details
+17:20:58.009 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:44)oggger - Validating Expected msg
+17:20:58.045 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:56)oggger - *** Finished TC001_AccountRegistrationTest***
